@@ -53,7 +53,7 @@ function Home() {
           </div>
 
           <div className="stat-card">
-            <h3>73+</h3>
+            <h3>80+</h3>
             <p>LeetCode</p>
           </div>
 
